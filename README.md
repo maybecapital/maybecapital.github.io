@@ -15,4 +15,4 @@ you can then run
 grunt server
 ```
 
-This will give you a lightweight server available at (localhost:9000)[http://localhost:9000]
+This will give you a lightweight server available at [localhost:9000](http://localhost:9000)
