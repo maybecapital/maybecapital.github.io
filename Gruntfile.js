@@ -28,7 +28,6 @@ module.exports = function (grunt) {
   });
 
   grunt.registerTask('server', [
-    'groc',
     'connect:server:keepalive'
   ]);
 };
